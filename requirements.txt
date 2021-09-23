@@ -1,0 +1,7 @@
+pandas==1.2.3
+pydot==1.4.1
+music21==6.7.1
+tensorflow==2.3.0
+numpy==1.19.2
+scipy==1.6.1
+scikit_learn==0.24.2
